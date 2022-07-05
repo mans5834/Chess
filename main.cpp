@@ -1,6 +1,5 @@
-#include <iostream>
-using namespace std;
+#include "GeneralFunctions.hpp"
 
 int main(){
-
+  ChessBoard();
 }
